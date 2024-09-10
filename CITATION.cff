@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "Zhou"
+    given-names: "Wei"
+    orcid: "https://orcid.org/0000-0002-9464-9147"
+title: "Water Conservancy Segment 3D"
+version: 1.0.0
+date-released: "2023-10-01"
+url: "https://github.com/XTU-SCS-HappyCV/WCS3D"
+preferred-citation:
+  type: data
+  authors:
+    - family-names: "Zhou"
+      given-names: "Wei"
+      orcid: "https://orcid.org/0000-0002-9464-9147"
+  title: "Water Conservancy Segment 3D"
