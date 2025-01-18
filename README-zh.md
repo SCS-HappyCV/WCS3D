@@ -37,7 +37,7 @@
 
 ## 下载
 
-- 百度网盘链接: https://pan.baidu.com/s/1eI5K7dvPymsr_RWY6meIrA?pwd=iisk 提取码: iisk
+- 百度网盘链接: https://pan.baidu.com/s/1RFyvAMHZsB0kVxvv6PnlBw?pwd=ne9u 提取码: ne9u
 
 - Kaggle: <https://www.kaggle.com/datasets/happycv/segment-hydraulic>
 

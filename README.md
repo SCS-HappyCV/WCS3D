@@ -36,8 +36,7 @@ Currently, publicly available 3D point cloud datasets mainly focus on indoor sce
 
 ## Download
 
-- Baidu Netdisk: <https://pan.baidu.com/s/1eI5K7dvPymsr_RWY6meIrA?pwd=iisk> Extraction code: iisk
-
+- Baidu Netdisk: <https://pan.baidu.com/s/1RFyvAMHZsB0kVxvv6PnlBw?pwd=ne9u> Extraction code: ne9u
 - Kaggle: <https://www.kaggle.com/datasets/happycv/segment-hydraulic>
 
 ## Citation
